@@ -1,0 +1,42 @@
+body{
+    background: linear-gradient(20deg, azure , skyblue) no-repeat fixed;
+    background: linear-gradient(200deg, #09b7ec  , #0a2a92) no-repeat fixed;
+}
+
+ul{
+    background: linear-gradient(20deg, skyblue , azure) no-repeat fixed;
+    background: linear-gradient(20deg, #4c5cf3, #09b7ec   ) no-repeat fixed;
+}
+
+h1{
+    color: rgb(0, 155, 202);
+    color: beige;
+}
+
+h4{
+    color: rgb(0, 155, 202);
+    color: beige;
+}
+
+a{
+    color: darkorchid;
+    color: pink;
+}
+
+li{
+    color: rgb(0, 155, 202);
+    color: beige;
+    list-style-type: none;
+}
+
+p{
+    color: rgb(0, 155, 202);
+    color: beige;
+
+}
+
+h3{
+    color: rgb(0, 155, 202);
+    color: beige;
+
+}
